@@ -1,0 +1,9 @@
+/* css für Navigation.tsx */
+.container{
+    flex-grow:1;
+    margin:0 auto;
+    position:relative;
+    width:auto;
+    background-color:#f0f0f0;
+    min-height:2 rem;
+    z-index:30}

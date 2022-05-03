@@ -1,0 +1,26 @@
+.secPart1{
+    width:100%;
+    height:80px;
+}
+.flexcontainer {
+    display: flex;
+    flex-direction: row;
+    width:100%;
+    height:400px;
+    background-color: rgb(69, 132, 134);
+  }
+.flexcontainer > section {
+    width: 350px;
+    margin: 10px;
+    background-color: aliceblue;
+  }
+.secStockList{
+height:200px;
+ }
+.secTrending{
+height:300px;  
+}
+section{
+    width:100%;
+    height:150;
+}
